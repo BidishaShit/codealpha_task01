@@ -1,4 +1,4 @@
-# PRODIGY_DS_02
+# Titanic Classification
 # Data Cleaning and Exploratory Data Analysis (EDA)
 # Overview
 This project focuses on performing data cleaning and exploratory data analysis (EDA) on the Titanic Dataset. The goal is to explore the relationships between variables, identify patterns, and uncover trends in the data.
